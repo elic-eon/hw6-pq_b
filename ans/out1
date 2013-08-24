@@ -1,0 +1,47 @@
+The pq needs to be initialized.
+Init step 1. key type: d for double, others for short:
+Init step 2. object type: d for double, others for short:
+Init step 3. Capacity: Initialization done.
+size/capacity: 0/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 1/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 2/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 3/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <3, 6>.
+size/capacity: 3/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <1, 2>.
+size/capacity: 3/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 4/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <4, 8>.
+size/capacity: 4/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <4, 8>.
+size/capacity: 3/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <1, 2>.
+size/capacity: 2/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <2, 4>.
+size/capacity: 1/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <3, 6>.
+size/capacity: 0/8
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit

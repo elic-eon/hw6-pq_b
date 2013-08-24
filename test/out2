@@ -1,0 +1,94 @@
+The pq needs to be initialized.
+Init step 1. key type: d for double, others for short:
+Init step 2. object type: d for double, others for short:
+Init step 3. Capacity: Initialization done.
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The pq is empty!
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The pq is empty!
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The pq is empty!
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The pq is empty!
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 1/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 2/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 3/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 4/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 5/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 6/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 7/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: The object 12 is in the pq now!
+size/capacity: 7/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 8/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+Input a short value for key: Input a short value for obj: size/capacity: 9/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <9, 18>.
+size/capacity: 8/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <1, 2>.
+size/capacity: 7/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <8, 16>.
+size/capacity: 6/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <2, 4>.
+size/capacity: 5/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <3, 6>.
+size/capacity: 4/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <4, 8>.
+size/capacity: 3/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <7, 14>.
+size/capacity: 2/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <6, 12>.
+size/capacity: 1/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The result is <5, 10>.
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
+The pq is empty!
+size/capacity: 0/16
+Valid operations: 1)insert, 2)extract max, 3)extract min, 4)max, 5)min,
+                  6)change key, 7)get key, 8)empty, 9)free, 10)quit
